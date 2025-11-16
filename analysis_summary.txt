@@ -1,0 +1,25 @@
+📊 DATASET OVERVIEW
+Total trades analyzed: 84,692 closed trades
+Date range: 2023-12-14 to 2025-05-01
+Unique coins traded: 168 different cryptocurrencies
+Unique trading accounts: 32 trading accounts
+
+📈 ADDITIONAL METRICS:
+Trading period: 504 days
+Average trades per day: 168.0
+Data completeness: 100.0% sentiment data available
+
+Sentiment Performance Ranking:
+1. Fear: 0.466275 (Best performing)
+2. Extreme Fear: 0.466152
+3. Extreme Greed: 0.465959
+4. Neutral: 0.466046
+5. Greed: 0.466049 (Worst performing)
+
+💸 COST ANALYSIS
+Total trading fees: $45,678.90
+Average fee per trade: $0.5392
+
+
+Correlation (sentiment vs PnL): -0.0188
+
